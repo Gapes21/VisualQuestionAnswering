@@ -1,4 +1,3 @@
-dataset/
 split*
 */v2_mscoco_train2014_annotations.json
 */v2_mscoco_train2014_complementary_pairs.json
