@@ -1,2 +1,6 @@
 dataset/
 split*
+*/v2_mscoco_train2014_annotations.json
+*/v2_mscoco_train2014_complementary_pairs.json
+*/v2_OpenEnded_mscoco_train2014_questions.json
+*/images.zip
